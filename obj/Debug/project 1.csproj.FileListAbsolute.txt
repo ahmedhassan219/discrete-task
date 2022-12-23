@@ -1,0 +1,8 @@
+D:\محضرات\New folder\project 1\project 1\bin\Debug\project 1.exe.config
+D:\محضرات\New folder\project 1\project 1\bin\Debug\project 1.exe
+D:\محضرات\New folder\project 1\project 1\bin\Debug\project 1.pdb
+D:\محضرات\New folder\project 1\project 1\obj\Debug\project 1.csproj.AssemblyReference.cache
+D:\محضرات\New folder\project 1\project 1\obj\Debug\project 1.csproj.SuggestedBindingRedirects.cache
+D:\محضرات\New folder\project 1\project 1\obj\Debug\project 1.csproj.CoreCompileInputs.cache
+D:\محضرات\New folder\project 1\project 1\obj\Debug\project 1.exe
+D:\محضرات\New folder\project 1\project 1\obj\Debug\project 1.pdb
